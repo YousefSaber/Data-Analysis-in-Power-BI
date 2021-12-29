@@ -7,4 +7,5 @@
 * [canvas Dashboards](https://docs.microsoft.com/en-us/power-bi/create-reports/service-dashboards) are available only in Power BI Service that require license fees.
 * Power BI requires license fees according to the [official docs](https://docs.microsoft.com/en-us/power-bi/fundamentals/service-get-started) so we couldn't use its features. 
 * `Train.html` isn't part of the project it's for reference only.
+* Because the free version of Power BI is limited in functionality the dashboards doesn't cover all visualization types such as UniVariate and MultiVariate visualizations, for more advanced visuals check out [Data Visualization Project](https://github.com/YousefSaber/Visualization-Project).
 ***
